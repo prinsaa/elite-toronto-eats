@@ -88,14 +88,14 @@ const App = () => {
           name="Guru Lukshmi"
           type="South Indian"
           link="http://www.gurulukshmi.com/"
-          image="src/assets/dosa.gif"
+          image="./dosa.gif"
           cost="$$ | 🌿"
         />
         <EatPlace
           name="Demetres"
           type="Belgian"
           link="https://demetres.com/"
-          image="src/assets/deme.jpg"
+          image="./deme.jpg"
           cost="$ | 🌿"
         />
       </div>
