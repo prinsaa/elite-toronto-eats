@@ -11,77 +11,77 @@ const App = () => {
           name="Pizzeria Badiali"
           type="Italian"
           link="https://pizzeriabadiali.com/"
-          image="src/assets/pizza.jpg"
+          image="./pizza.jpg"
           cost="$$ | 🌿"
         />
         <EatPlace
           name="Hakka Legend"
           type="Chinese"
           link="https://www.hakkalegend.com/"
-          image="../assets/hakka.jpg"
+          image="./hakka.jpg"
           cost="$$ | 🌿"
         />
         <EatPlace
           name="LaMochi Donuts & Sweets"
           type="Japanese "
           link="https://lamochisweets.com/"
-          image="src/assets/mochi.jpg"
+          image="./mochi.jpg"
           cost="$$ | 🌿"
         />
         <EatPlace
           name="Chungchun Rice Dog"
           type="Korean"
           link="https://chungchunricedog.ca/"
-          image="src/assets/hotdog.jpeg"
+          image="./hotdog.jpeg"
           cost="$ | 🌿"
         />
         <EatPlace
           name="Arctic Bites"
           type="Thai"
           link="https://arcticbites.com/"
-          image="src/assets/rolls.jpg"
+          image="./rolls.jpg"
           cost="$$ | 🌿"
         />
         <EatPlace
           name="The Old Spaghetti Factory"
           type="Italian"
           link="https://oldspaghettifactory.ca/"
-          image="src/assets/old.jpg"
+          image="./old.jpg"
           cost="$$ | 🌿"
         />
         <EatPlace
           name="iHalo Krunch"
           type="Asian"
           link="https://www.ihalokrunch.com/"
-          image="src/assets/purple.jpg"
+          image="./purple.jpg"
           cost="$$ | 🌿"
         />
         <EatPlace
           name="Paranthe Wali Gali"
           type="Indian"
           link="https://www.paranthewaligali.net/"
-          image="src/assets/para.jpg"
+          image="./para.jpg"
           cost="$$ | 🌿"
         />
         <EatPlace
           name="Burrito Boyz"
           type="Mexican"
           link="https://www.burritoboyz.ca/"
-          image="src/assets/burrito.jpg"
+          image="./burrito.jpg"
           cost="$ | 🌿"
         />
         <EatPlace
           name="Neo Coffee Bar"
           type="Japanese"
           link="https://www.neocoffeebar.com/"
-          image="src/assets/neo1.jpg"
+          image="./neo1.jpg"
           cost="$$ | 🌿"
         />
         <EatPlace
           name="Gong Cha"
           type="Chinese"
           link="https://gong-cha.ca/"
-          image="src/assets/gong.jpg"
+          image="./gong.jpg"
           cost="$ | 🌿"
         />
         <EatPlace
