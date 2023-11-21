@@ -18,7 +18,7 @@ const App = () => {
           name="Hakka Legend"
           type="Chinese"
           link="https://www.hakkalegend.com/"
-          image="src/assets/hakka.jpg"
+          image="../assets/hakka.jpg"
           cost="$$ | 🌿"
         />
         <EatPlace
